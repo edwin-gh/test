@@ -1,5 +1,5 @@
 # test
-this is a test
-blah
-blah
+<p>this is a test</p>
+blah<br />
+blah<br />
 blah...
